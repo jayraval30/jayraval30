@@ -14,7 +14,6 @@ I enjoy building real-world projects using Python, Java, and modern technologies
 
 - 🎓 B.E. Computer Engineering @ **LDRP-ITR (KSV University)** (2023 – 2027)
 - 🤖 Passionate about **AI, Computer Vision & Python Development**
-- 🔨 Currently building a **Video Note Extractor** (Chrome Extension + AI)
 - 🌱 Always learning and exploring new technologies
 
 ---
@@ -47,11 +46,11 @@ I enjoy building real-world projects using Python, Java, and modern technologies
 - 🖥️ Dashboard built with **Streamlit**
 - 📲 Supports wireless camera via IP Webcam app
 
-[![Video Note Extractor](https://img.shields.io/badge/Video--Note--Extractor-green?style=for-the-badge)](https://github.com/jayraval30)
+[![Stock Tracker Agent](https://img.shields.io/badge/Stock--Tracker--Agent-orange?style=for-the-badge)](https://github.com/jayraval30)
 
-- 🎬 Extracts and summarizes notes from videos automatically
-- 🔌 Works as a **Chrome Extension**
-- 🤖 AI-powered transcription and summarization
+- 📈 AI-powered stock tracking and monitoring agent
+- 🔔 Real-time stock price alerts and notifications
+- 🤖 Automated analysis using Python
 - 🚧 Currently in active development
 
 ---
