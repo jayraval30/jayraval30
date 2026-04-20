@@ -1,6 +1,6 @@
 # Jay Raval
 
-**AI/ML Developer · Building things that actually work in the real world**
+**AI/ML Enthusiast · Building things that actually work in the real world**
 
 ---
 
