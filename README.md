@@ -48,7 +48,7 @@ No app to install. Just chat.
 ```
 Languages      Python  Java  JavaScript
 Libraries      OpenCV  Streamlit
-Databases      MySQL
+Databases      MySQL   Redis
 Currently      n8n · Automation · DSA
 ```
 
