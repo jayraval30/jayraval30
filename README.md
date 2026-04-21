@@ -45,14 +45,17 @@ No app to install. Just chat.
 
 ## Skills
 
+**Languages:**  
+Python · Java · JavaScript · C · C++
 
-**Languages      _Python  Java  JavaScript C C++_**
-**Libraries      _OpenCV InsightFace Streamlit_**
-**Databases      _MySQL  PostgreSQL  Redis_**
-**Currently      _n8n · Automation · DSA_**
+**Libraries & Frameworks:**  
+OpenCV · InsightFace · Streamlit
 
+**Databases:**  
+MySQL · PostgreSQL · Redis
 
----
+**Currently Exploring:**  
+n8n · Automation Pipelines · Data Structures & Algorithms
 
 ## Education
 
