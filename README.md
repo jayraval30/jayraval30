@@ -45,12 +45,12 @@ No app to install. Just chat.
 
 ## Skills
 
-```
-Languages      Python  Java  JavaScript
-Libraries      OpenCV  Streamlit
-Databases      MySQL   Redis
-Currently      n8n · Automation · DSA
-```
+
+**Languages      _Python  Java  JavaScript C C++_**
+**Libraries      _OpenCV InsightFace Streamlit_**
+**Databases      _MySQL  PostgreSQL  Redis_**
+**Currently      _n8n · Automation · DSA_**
+
 
 ---
 
