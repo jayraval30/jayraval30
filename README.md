@@ -62,7 +62,7 @@ Bot  →  ↓ NVDA -1.89% — geopolitical risk in China, data center revenue mi
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Languages**
 
