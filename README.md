@@ -27,9 +27,9 @@ Currently deep into **AI agents, automation pipelines, and computer vision** —
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎯 [AI Attendance System](https://github.com/jayraval30/AI-Attendance-System)
+###  [AI Attendance System](https://github.com/jayraval30/AI-Attendance-System)
 > **Automated classroom attendance via face recognition — built for real CCTV deployment**
 
 Designed to eliminate manual roll calls entirely. The system detects faces in real time and marks attendance automatically — no human intervention needed. Currently supports photo uploads, video files, and live webcam feeds, with full CCTV integration as the next milestone.
@@ -42,7 +42,7 @@ Designed to eliminate manual roll calls entirely. The system detects faces in re
 
 ---
 
-### 📈 [StockPulse](https://github.com/jayraval30/StockPulse)
+###  [StockPulse](https://github.com/jayraval30/StockPulse)
 > **WhatsApp chatbot that tells you *why* your stocks moved — not just that they did**
 
 Send any stock ticker on WhatsApp. Get back the day's price movement, performance insight, and the actual reason behind it — synthesized from global market news and world events by an AI agent running a live tool-calling loop.
@@ -93,7 +93,7 @@ Bot  →  ↓ NVDA -1.89% — geopolitical risk in China, data center revenue mi
 
 ---
 
-## 🎓 Education
+##  Education
 
 **B.E. Computer Engineering**
 LDRP Institute of Technology & Research, KSV University
@@ -101,7 +101,7 @@ LDRP Institute of Technology & Research, KSV University
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -112,7 +112,7 @@ LDRP Institute of Technology & Research, KSV University
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 I'm always open to collaborating on interesting problems — especially anything at the intersection of AI, automation, and real-world deployment.
 
@@ -127,5 +127,5 @@ I'm always open to collaborating on interesting problems — especially anything
 ---
 
 <div align="center">
-  <sub>⚡ If it doesn't run in the real world, it doesn't count.</sub>
+  <sub> If it doesn't run in the real world, it doesn't count.</sub>
 </div>
