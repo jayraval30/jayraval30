@@ -21,9 +21,9 @@ I don't just study AI — I build with it. Every project I work on solves a real
 
 Currently deep into **AI agents, automation pipelines, and computer vision** — and strengthening my fundamentals with **Data Structures & Algorithms** along the way.
 
-- 🎓 B.E. Computer Engineering — LDRP-ITR, KSV University *(2023 – 2027)*
-- 📍 Gujarat, India
-- 🔨 Always building something new
+-  B.E. Computer Engineering — LDRP-ITR, KSV University *(2023 – 2027)*
+-  Gujarat, India
+-  Always building something new
 
 ---
 
