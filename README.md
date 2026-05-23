@@ -2,7 +2,7 @@
 
 # Jay Raval
 
-### AI/ML Enthusiast · Building things that actually work in the real world
+### AI/ML Enthusiast · Building thing that actually work in the real world
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-raval-25b62a34b/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jay300106@gmail.com)
