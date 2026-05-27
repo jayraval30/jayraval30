@@ -27,7 +27,7 @@ Currently deep into **AI agents, automation pipelines, and computer vision** —
 
 ---
 
-##  Featured Projects
+##  Featured Project
 
 ###  [AI Attendance System](https://github.com/jayraval30/AI-Attendance-System)
 > **Automated classroom attendance via face recognition — built for real CCTV deployment**
