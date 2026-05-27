@@ -13,7 +13,7 @@
 
 ---
 
-##  About Me
+##  About 
 
 I'm a Computer Engineering student who believes the best way to learn is to **build**.
 
